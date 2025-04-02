@@ -78,3 +78,5 @@ This tool implements strong encryption that provides excellent protection for se
 
 - This tool is intended for legitmate personal and business use only.
 
+## THE OUTPUT FILE HAS BEEN ATTACHED
+
